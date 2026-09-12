@@ -181,10 +181,3 @@ Decodelabs - Internship/
 ├── Project 2 - ...
 └── Project 3 - Customer Segmentation/
 ```
-
-> Keep Project 1 and Project 2 in their own folders. Do not mix their datasets or notebooks with Project 3.
-
-
-
-
-These findings should be interpreted together with the charts and business context rather than in isolation.
