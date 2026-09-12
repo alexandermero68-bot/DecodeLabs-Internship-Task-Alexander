@@ -7,7 +7,6 @@ Three-Project Overview This portfolio contains three practical data analytics pr
 ---
 # 📊  Project 1 - Data Cleaning & Preparation
 **Input:** `Dataset for Data Analytics.xlsx`
-![Dataset Screenshot](Excel_Screenshot.png)
 ---
 
 # 📊 Project 2 — E-Commerce Exploratory Data Analysis (EDA) 
